@@ -1,0 +1,49 @@
+*** Dissertation scedule 
+** First week (AUG)
+* DONE AI finish
+* TODO AI submit 
+* TODO CV finish 
+* TODO CV submit 
+* TODO Dissertation complete (Except for result) 
+* TODO Dissertation programme complete (Except for CRM + Beamform) 
+** Second week 
+* TODO Dissertation programme complete 
+* TODO Dissertation complete 
+** Third week 
+* TODO
+* TODO
+* TODO
+* TODO 
+** Las week
+* TODO 
+* TODO
+
+** First week (Sep) 
+* TODO Disseration print and checking error 
+* TODO Disseration submit (3th, Sep) 
+* TODO PPT 
+* TODO Suitcase 
+* TODO Airplane 
+
+
+*** Dissertation contents 
+(1) Experiment setting 
+  1. Beamform
+
+  2. Complex ratio mask
+		 2-1. Concept of complex ratio mask 
+		 2-2. Combine beamform and CRM 
+
+  3. DNN 
+    3-1. Structure of DNN (Convolution layer) 
+    3-2. Cost function
+
+(2) Experiment result
+  1. Beamform PSD
+  2. Speech PDS 
+  2. Noise PSD
+	3. Multichannel filter 
+  4. Target 
+
+
+	
